@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "JenkinsTestWinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "JenkinsTestWinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
