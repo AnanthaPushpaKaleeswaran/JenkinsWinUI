@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JenkinsTestWinUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2808e10b34938058b7cb6165057ab14b144c9ea6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26b9f184a339071067555d4b4083419ee4e95c8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("JenkinsTestWinUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JenkinsTestWinUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
