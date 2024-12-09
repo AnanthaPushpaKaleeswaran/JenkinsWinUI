@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows10.0.19041.0"
+          "net8.0-windows10.0.19041"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -31,7 +31,7 @@
         },
         "frameworks": {
           "net8.0-windows10.0.19041": {
-            "targetAlias": "net8.0-windows10.0.19041.0",
+            "targetAlias": "net8.0-windows10.0.19041",
             "projectReferences": {}
           }
         },
@@ -48,7 +48,7 @@
       },
       "frameworks": {
         "net8.0-windows10.0.19041": {
-          "targetAlias": "net8.0-windows10.0.19041.0",
+          "targetAlias": "net8.0-windows10.0.19041",
           "dependencies": {
             "Microsoft.Windows.SDK.BuildTools": {
               "target": "Package",
