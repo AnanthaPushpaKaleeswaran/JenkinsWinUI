@@ -30,7 +30,7 @@ namespace JenkinsTestWinUI
 
         private void myButton_Click(object sender, RoutedEventArgs e)
         {
-            myButton.Content = "Clicked";
+            myButton.Content = "Clicked and result stored in release";
         }
     }
 }

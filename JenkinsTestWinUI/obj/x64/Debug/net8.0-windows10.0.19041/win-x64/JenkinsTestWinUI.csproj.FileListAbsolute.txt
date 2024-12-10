@@ -253,3 +253,4 @@ E:\Ananth\repos\JenkinsTestWinUI\JenkinsTestWinUI\obj\x64\Debug\net8.0-windows10
 E:\Ananth\repos\JenkinsTestWinUI\JenkinsTestWinUI\obj\x64\Debug\net8.0-windows10.0.19041\win-x64\package.map.txt
 E:\Ananth\repos\JenkinsTestWinUI\JenkinsTestWinUI\obj\x64\Debug\net8.0-windows10.0.19041\win-x64\_pkginfo.txt
 E:\Ananth\repos\JenkinsTestWinUI\JenkinsTestWinUI\obj\x64\Debug\net8.0-windows10.0.19041\win-x64\_installerinfo.log
+E:\Ananth\repos\JenkinsTestWinUI\JenkinsTestWinUI\obj\x64\Debug\net8.0-windows10.0.19041\win-x64\Symbols\JenkinsTestWinUI.pdb
